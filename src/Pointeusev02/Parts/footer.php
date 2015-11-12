@@ -1,0 +1,1 @@
+<div class="row" id="footer">pointageSIOdeluXe © Tous droits réservés</div>

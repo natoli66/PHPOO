@@ -1,0 +1,102 @@
+body{
+    background: url(../Images/background.png) fixed;
+    background-size:cover;
+}
+
+h1{
+    background: rgba(255, 255, 255, 0.6);
+    border-radius: 0px 0px 15px 15px;
+    display: inline;
+    padding: 0px 10px 8px 10px;
+    color:rgb(160,160,160);
+    box-shadow: rgb(77, 77, 77) 0px 0px 23px;
+}
+
+#left-side{
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 0px 10px 10px 0px;
+    box-shadow: rgb(173, 250, 244) 0px 0px 17px;
+    position:fixed;
+    z-index:1;
+}
+
+#left-side h2{
+    font-size:21px;
+}
+
+#content{
+    background: rgba(255, 255, 255, 0.6);
+    padding: 50px 30px 30px 30px;
+    border-radius: 30px;
+    border:solid darkgrey 1px;
+}
+
+.navbar{
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
+    margin-bottom:-20px;
+}
+
+label,form[button]{
+    margin-right:20px;
+}
+
+#form_ins{
+    text-align:center;
+}
+
+#content li,#left-side li{
+    list-style: none;
+}
+
+#content{
+    font-size:17px;
+}
+
+#content h2{
+    margin: 0px 0px 10px 20px;
+    text-shadow: rgba(0, 0, 0, 0.2) 0px 0px 5px;
+}
+
+#footer{
+    text-align: center;
+    font-size: 16px;
+    color:black;
+    margin-bottom: 50px;
+    margin-top: 3px;
+}
+
+#nbPointages{
+    text-align:right;
+}
+
+legend{
+    border-bottom:1px solid #BBBBBB;
+}
+
+table{
+    box-shadow: white 0px 0px 10px 3px;
+}
+
+thead tr{
+    background-color:rgba(255,255,255,0.95);
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+    background-color: rgba(255,255,255,0.8);
+}
+
+.table-striped > tbody > tr:nth-of-type(even) {
+    background-color: rgba(255,255,255,0.6);
+}
+
+.table-hover > tbody > tr:hover {
+    background-color:white;
+}
+
+.linkButton {
+    background: none;
+    border: none;
+    color: #0066ff;
+    text-decoration: underline;
+    cursor: pointer;
+}

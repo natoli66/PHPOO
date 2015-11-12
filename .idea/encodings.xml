@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Pointeusev02/Classes/PointeuseV02.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Pointeusev02/Parts/left.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Pointeusev02/Parts/nav.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Pointeusev02/Public/connexion.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Pointeusev02/Public/index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Pointeusev02/Public/inscription.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Pointeusev02/Scripts/authentificationsite.php" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
